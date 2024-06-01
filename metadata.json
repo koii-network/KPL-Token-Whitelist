@@ -19,6 +19,16 @@
       "description": "FIRE",
       "logoURI": "https://raw.githubusercontent.com/HermanL02/spl-token-storage/main/icons/FJG2aEPtertCXoedgteCCMmgngSZo1Zd715oNBzR7xpR.png",
       "tags": ["utility-token"]
+    },
+    {
+      "chainId": 101,
+      "address": "7DPGC5wCPfV6Kgyd6eFaMK2md2bNiCehAyKJU9LK3yNb",
+      "decimals": 9,
+      "name": "UMARU",
+      "symbol": "UMARU",
+      "description": "UMARU",
+      "logoURI": "https://raw.githubusercontent.com/HermanL02/spl-token-storage/main/icons/umaru.png",
+      "tags": ["utility-token"]
     }
   ]
 }
