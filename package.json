@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "format": "prettier --write metadata.json",
+    "lint": "prettier --check metadata.json"
+  },  
+  "devDependencies": {
+    "prettier": "^3.3.0",
+    "husky": "^8.0.0"
+  }
+}
