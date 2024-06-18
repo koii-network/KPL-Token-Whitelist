@@ -29,6 +29,16 @@
       "description": "UMARU",
       "logoURI": "https://raw.githubusercontent.com/HermanL02/spl-token-storage/main/icons/umaru.png",
       "tags": ["utility-token"]
+    },
+    {
+      "chainId": 101,
+      "address": "4HaXFJtwaq4R9ep74EDn6eZQcncudnBybufPu6cCCvmn",
+      "decimals": 9,
+      "name": "KSTORAGE",
+      "symbol": "KST",
+      "description": "KOII STORAGE token for Koii Storage SDK",
+      "logoURI": "https://raw.githubusercontent.com/HermanL02/spl-token-storage/main/icons/koii-storage.png",
+      "tags": ["utility-token"]
     }
   ]
 }
