@@ -39,6 +39,16 @@
       "description": "KOII STORAGE token for Koii Storage SDK",
       "logoURI": "https://raw.githubusercontent.com/HermanL02/spl-token-storage/main/icons/koii-storage.png",
       "tags": ["utility-token"]
+    },
+    {
+      "chainId": 101,
+      "address": "37xQGewRft4RJp6i9fYwDamFFFeAtB8KKnf7xurGm2so",
+      "decimals": 9,
+      "name": "USDC",
+      "symbol": "USDC",
+      "description": "USD//C",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v/logo.png",
+      "tags": ["utility-token"]
     }
   ]
 }
