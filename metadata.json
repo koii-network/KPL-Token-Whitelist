@@ -49,6 +49,17 @@
       "description": "USD//C",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v/logo.png",
       "tags": ["utility-token"]
+    },
+    
+    {
+      "chainId": 101,
+      "address": "DCyu3h5Y98fo1XBB7rJ6ZS3vToqFPNxnJn5NNSZjNDD7",
+      "decimals": 9,
+      "name": "USDK",
+      "symbol": "USDK",
+      "description": "USD//K",
+      "logoURI": "https://raw.githubusercontent.com/HermanL02/spl-token-storage/main/icons/koii-storage.png",
+      "tags": ["utility-token"]
     }
   ]
 }
