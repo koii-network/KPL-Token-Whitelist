@@ -14,9 +14,9 @@
       "chainId": 101,
       "address": "FJG2aEPtertCXoedgteCCMmgngSZo1Zd715oNBzR7xpR",
       "decimals": 9,
-      "name": "FIRE",
-      "symbol": "FIRE",
-      "description": "FIRE",
+      "name": "OceanFIRE",
+      "symbol": "OFIRE",
+      "description": "OceanFIRE",
       "logoURI": "https://raw.githubusercontent.com/HermanL02/spl-token-storage/main/icons/FJG2aEPtertCXoedgteCCMmgngSZo1Zd715oNBzR7xpR.png",
       "tags": ["utility-token"]
     },
